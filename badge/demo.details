@@ -1,9 +1,12 @@
-/*
 ---
-name: qwe
-description: jsFiddle demo
-authors:
-  - qwe
-resources:
-...
-*/
+ name: jQuery-USOS usosBadge widget
+ description: jQuery-USOS usosBadge widget Demo
+ authors:
+   - Wojciech Rygielski
+ resources:
+   - https://raw.githubusercontent.com/kmandziuk/jsfiddle_integrations_test/master/jquery-usos-demos/latest-bundle.min.js
+   - https://raw.githubusercontent.com/MUCI/jquery-usos/master/src/vendor/css/tooltipster.css
+   - https://raw.githubusercontent.com/MUCI/jquery-usos/master/src/css/jquery-usos.css
+   - https://raw.githubusercontent.com/MUCI/jquery-usos/master/src/jquery/jquery-ui-1.10.1.custom.min.js
+ normalize_css: no
+ ...
